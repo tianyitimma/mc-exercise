@@ -14,6 +14,7 @@ BOB IS TYPING SOME TEXT! MWA HA HA HA!
 This is Ted's feature
 
 
+
 ## Dearly beloved
 ## We are gathered here today
 ## To get through this thing called "life"
@@ -33,3 +34,8 @@ This is Ted's feature
 ## You're on your own
 ## And if de-elevator tries to bring you down
 ## Go crazy (Punch a higher floor)
+
+This is Kyle as Alice round 2 baby!
+
+I'm a barbie girl, in a barbie world!
+
