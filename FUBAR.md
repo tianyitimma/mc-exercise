@@ -1,5 +1,6 @@
 
 what is up homies?
+I"m just gonna keep adding things
 
 # Cal round 1
 
@@ -14,6 +15,9 @@ BOB IS TYPING SOME TEXT! MWA HA HA HA!
 This is Ted's feature
 
 
+
+
+these are alot of prs
 
 ## Dearly beloved
 ## We are gathered here today
@@ -35,7 +39,9 @@ This is Ted's feature
 ## And if de-elevator tries to bring you down
 ## Go crazy (Punch a higher floor)
 
+
 This is Kyle as Alice round 2 baby!
 
 I'm a barbie girl, in a barbie world!
+
 
